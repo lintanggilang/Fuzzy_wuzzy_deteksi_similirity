@@ -1,6 +1,9 @@
 # fuzzywuzzy
 
-FuzzyWuzzy adalah suatu package di python, yang dapat digunakan untuk mencari kemiripan (similirity) dari suatu text terhadapat suatu data text 
-Package ini secara teori menggunakan pendekatan “Levenshtein Distance”.
+Berikut adalah contoh implementasi dari fuzzywuzzy, yang dapat digunakan untuk mencari kemiripan (similirity) dari suatu text terhadapat suatu data text.
 
-Berikut adalah contoh implementasi dari fuzzywuzzy
+Tulisan ini menggunakan package fuzzywuzzy dengan bahasa pemrogram yang digunakan adalah python 
+
+Secara teori package fuzzywuzzy menggunakan pendekatan “Levenshtein Distance”.
+
+
